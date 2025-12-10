@@ -1,0 +1,250 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(42, 39, 39, 0.119);
+    display: flex;
+    justify-content: center;
+    padding-top: 1px;
+}
+
+.border{
+    display: block;
+    background-color: white;
+    width: 250px;
+    height: 450px;
+    margin-top: 55px;
+    margin-left: 800px;
+    overflow: hidden;
+    position: static;
+    border-radius: 5px;
+}
+
+.border img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.kira{
+    position: absolute;
+    right: 245px;
+    top: 77px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 10px;
+}
+
+.kir{
+    position: absolute;
+    right: 202px;
+    top: 95px;
+    transform: translate(-50%, -50%);
+    color: black;
+    font-size: 10px;
+    padding-bottom: 8px;
+}
+
+.kiraa{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+    position: absolute;
+    top: 105px;
+}
+
+body .border2{
+    display: block;
+    background-color: rgba(83, 80, 80, 0.612);
+    width: 200px;
+    height: 220px;
+    margin-top: 55px;
+    position: absolute;
+    overflow: hidden;
+    right: 390px;
+    border-radius: 5px;
+}
+
+.border2 img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.kira1{
+    position: absolute;
+    right: 80px;
+    top: 10px;
+    color: black;
+    font-size: 10px;
+    color: white;
+}
+
+.kir1{
+    position: absolute;
+    right: 75px;
+    top: 23px;
+    color: black;
+    font-size: 10px;
+    color: white;
+}
+
+.kiraa1{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+    position: absolute;
+    top: 40px;
+    color: white;
+}
+
+body .border3{
+    display: block;
+    background-color: rgb(159, 99, 159);
+    width: 500px;
+    height: 220px;
+    margin-top: 55px;
+    position: absolute;
+    overflow: hidden;
+    right: 610px;
+    border-radius: 5px;
+    color: white;
+}
+
+.border3 img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.kira2{
+    position: absolute;
+    right: 390px;
+    top: 10px;
+    color: black;
+    font-size: 10px;
+    color: white;
+}
+
+.kir2{
+    position: absolute;
+    right: 374px;
+    top: 23px;
+    color: white;
+    font-size: 10px;
+}
+
+.kiraa2{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+    position: absolute;
+    top: 40px;
+}
+
+body .border4{
+    display: block;
+    background-color: rgba(36, 33, 33, 0.836);
+    width: 500px;
+    height: 220px;
+    margin-top: 290px;
+    position: absolute;
+    overflow: hidden;
+    right: 390px;
+    border-radius: 5px;
+    color: white;
+}
+
+.border4 img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.kira3{
+    position: absolute;
+    right: 390px;
+    top: 10px;
+    color: black;
+    font-size: 10px;
+    color: white;
+}
+
+.kir3{
+    position: absolute;
+    right: 374px;
+    top: 23px;
+    color: white;
+    font-size: 10px;
+}
+
+.kiraa3{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+    position: absolute;
+    top: 40px;
+}
+
+body .border5{
+    display: block;
+    background-color: white;
+    width: 200px;
+    height: 220px;
+    margin-top: 290px;
+    position: absolute;
+    overflow: hidden;
+    right: 910px;
+    border-radius: 5px;
+    color: black;
+}
+
+
+.border5 img{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-left: 20px;
+    display: flex;
+}
+
+.kira4{
+    position: absolute;
+    right: 80px;
+    top: 9px;
+    color: black;
+    font-size: 10px;
+}
+
+.kir4{
+    position: absolute;
+    right: 70px;
+    top: 25px;
+    color: black;
+    font-size: 10px;
+    padding-bottom: 8px;
+}
+
+.kiraa4{
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 20px;
+    position: absolute;
+    top: 40px;
+}
